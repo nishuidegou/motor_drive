@@ -1,0 +1,16 @@
+﻿# Keil MDK build artifacts
+*.o
+*.d
+*.crf
+*.axf
+*.bin
+*.hex
+*.map
+*.lst
+*.i
+*.dep
+*.htm
+*.uvguix.*
+*.lnp
+sw/Keil/obj/
+sw/Keil/lst/
